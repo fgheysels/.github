@@ -1,5 +1,5 @@
-# Codit - Repo template
+# Codit - GitHub
 
-A GitHub template to create new GitHub projects.
+Repo to maintain all resources related to GitHub.
 
 ![Codit logo](./media/logo.png)
