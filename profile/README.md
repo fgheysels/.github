@@ -6,3 +6,5 @@ What are you up to?
 - Need to invite a co-worker to our organization? Open a support ticket with internal IT.
 
 Enjoy contributing to our GitHub repos.
+
+Are you interested in joining Codit? Good news - [We are hiring](https://codit.eu/jobs)!
